@@ -1,0 +1,13 @@
+---
+Checks: >-
+  -resources-no-recursion,
+  -google-readability-todo,
+  -altera-unroll-loops,
+  -fuchsia-*,
+  fuchsia-multiple-inheritance,
+  -llvm-header-guard,
+  -llvm-include-order,
+  -llvmlibc-*,
+  -modernize-deprecated-headers,
+  -misc-no-recursion,
+  -resources-non-private-member-variables-in-classes
